@@ -1,0 +1,9 @@
+Building Diamint
+
+See doc/readme-qt.rst for instructions on building Diamint-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Diamint.
+
+See doc/build-*.txt for instructions on building diamintd,
+the intended-for-services, no-graphical-interface, reference
+implementation of Diamint.
